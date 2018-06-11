@@ -1,5 +1,11 @@
 # summarizer
-    An application of the summa module that implements TextRank module to create a commandline utility that quickly summarizes text, .docx , .pdf and urls. 
+
+An application of the summa module that implements TextRank module to create a commandline utility that quickly summarizes text, .docx , .pdf and urls. 
+
+## Dependancies:
+- Summa 
+- PyPDF2
+- BeautifulSoup4
 
 ## Usage:
 
