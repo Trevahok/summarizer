@@ -7,12 +7,17 @@
 pip3 install summa
 ````
 ````bash
-echo "alias summarize='python3 path/to/code/summa_py_textank.py >> ~/.bash_profile
+echo "alias summarize='python3 path/to/code/summa_py_textank.py ">> ~/.bash_profile
 ````
-````python
+````bash
  	summarize 'http:// url.to.summarize' url
+````
  or
+ ````bash
  	summarize 'path/to/file/file.pdf' pdf
+ ````
  or
+  ````bash
+
  	summarize 'path/to/file/file.txt' txt
 ````
