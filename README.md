@@ -1,11 +1,15 @@
 # summarizer
 
 An application of the summa module that implements TextRank module to create a commandline utility that quickly summarizes text, .docx , .pdf and urls. 
+Using the same module, implementing a web scraper that gets the top hits for a query and summarizes the individual pages to create a raw document to start your assignments with.  
 
 ## Dependancies:
 - Summa 
 - PyPDF2
 - BeautifulSoup4
+- Lxml
+- Requests
+
 
 ## Usage:
 
