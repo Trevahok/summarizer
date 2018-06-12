@@ -30,3 +30,8 @@ summarize 'path/to/file/file.pdf' pdf
   ````bash
 summarize 'path/to/file/file.txt' txt
 ````
+--------
+For collecting information from the web results of DuckDuckGo and then summarizing the result: 
+````python
+python3 assignment_helper.py 'topic to search for'
+````
